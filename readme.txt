@@ -1,7 +1,6 @@
 Hello world! 
 
-This is a line where a joke would go
-
-And here is a third line 
-
+Knock knock.
+Who's there. 
 Git.
+Git who? 
